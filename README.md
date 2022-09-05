@@ -13,6 +13,7 @@ Through Uplift, everyone is able to do their part to improve a patient's quality
 HOW TO USE
 
 .aia file: Import using the http://ai2.appinventor.mit.edu/ editor to view code and connect temporarily using your mobile device.
+
 .apk file: Download on an Android phone to try out the app yourself.
 
 
